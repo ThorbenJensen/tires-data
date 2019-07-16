@@ -1,13 +1,13 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>valid</folder>
 	<filename>65.ferrari-car-tires-3456x2592_44440.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/65.ferrari-car-tires-3456x2592_44440.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/valid/65.ferrari-car-tires-3456x2592_44440.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>480</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>102</xmin>
-			<ymin>35</ymin>
-			<xmax>532</xmax>
-			<ymax>437</ymax>
+			<xmin>50</xmin>
+			<ymin>28</ymin>
+			<xmax>249</xmax>
+			<ymax>274</ymax>
 		</bndbox>
 	</object>
 </annotation>

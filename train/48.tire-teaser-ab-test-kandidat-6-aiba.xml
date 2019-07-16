@@ -1,26 +1,26 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>train</folder>
 	<filename>48.tire-teaser-ab-test-kandidat-6-aiba.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/48.tire-teaser-ab-test-kandidat-6-aiba.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/train/48.tire-teaser-ab-test-kandidat-6-aiba.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>572</width>
-		<height>357</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>321</xmin>
-			<ymin>18</ymin>
-			<xmax>485</xmax>
-			<ymax>305</ymax>
+			<xmin>179</xmin>
+			<ymin>32</ymin>
+			<xmax>250</xmax>
+			<ymax>258</ymax>
 		</bndbox>
 	</object>
 </annotation>

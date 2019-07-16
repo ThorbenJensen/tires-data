@@ -1,38 +1,38 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>train</folder>
 	<filename>52.cropped-crossover-suv3.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/52.cropped-crossover-suv3.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/train/52.cropped-crossover-suv3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>575</width>
-		<height>730</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>416</ymin>
-			<xmax>355</xmax>
-			<ymax>626</ymax>
+			<xmin>135</xmin>
+			<ymin>169</ymin>
+			<xmax>185</xmax>
+			<ymax>254</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>413</xmin>
-			<ymin>404</ymin>
-			<xmax>507</xmax>
-			<ymax>537</ymax>
+			<xmin>215</xmin>
+			<ymin>163</ymin>
+			<xmax>261</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 </annotation>

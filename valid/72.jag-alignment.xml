@@ -1,13 +1,13 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>valid</folder>
 	<filename>72.jag-alignment.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/72.jag-alignment.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/valid/72.jag-alignment.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>510</width>
-		<height>339</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>312</xmin>
-			<ymin>133</ymin>
-			<xmax>386</xmax>
-			<ymax>279</ymax>
+			<xmin>186</xmin>
+			<ymin>117</ymin>
+			<xmax>235</xmax>
+			<ymax>247</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>430</xmin>
-			<ymin>134</ymin>
-			<xmax>458</xmax>
-			<ymax>202</ymax>
+			<xmin>257</xmin>
+			<ymin>121</ymin>
+			<xmax>269</xmax>
+			<ymax>175</ymax>
 		</bndbox>
 	</object>
 </annotation>

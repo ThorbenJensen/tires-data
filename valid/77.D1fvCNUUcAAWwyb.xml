@@ -1,13 +1,13 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>valid</folder>
 	<filename>77.D1fvCNUUcAAWwyb.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/77.D1fvCNUUcAAWwyb.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/valid/77.D1fvCNUUcAAWwyb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>380</width>
-		<height>380</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>39</xmin>
-			<ymin>31</ymin>
-			<xmax>380</xmax>
-			<ymax>367</ymax>
+			<xmin>33</xmin>
+			<ymin>24</ymin>
+			<xmax>300</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>

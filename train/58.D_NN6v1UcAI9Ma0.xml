@@ -1,38 +1,38 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>train</folder>
 	<filename>58.D_NN6v1UcAI9Ma0.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/58.D_NN6v1UcAI9Ma0.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/train/58.D_NN6v1UcAI9Ma0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>380</width>
-		<height>380</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tire</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>50</ymin>
-			<xmax>177</xmax>
-			<ymax>343</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>260</xmin>
-			<ymin>145</ymin>
-			<xmax>304</xmax>
-			<ymax>229</ymax>
+			<xmin>2</xmin>
+			<ymin>42</ymin>
+			<xmax>138</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>train</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>120</ymin>
+			<xmax>241</xmax>
+			<ymax>179</ymax>
 		</bndbox>
 	</object>
 </annotation>

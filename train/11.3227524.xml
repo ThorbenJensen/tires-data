@@ -1,26 +1,26 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>train</folder>
 	<filename>11.3227524.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/11.3227524.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/train/11.3227524.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>392</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>39</xmin>
-			<ymin>29</ymin>
-			<xmax>364</xmax>
-			<ymax>353</ymax>
+			<xmin>29</xmin>
+			<ymin>20</ymin>
+			<xmax>274</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 </annotation>

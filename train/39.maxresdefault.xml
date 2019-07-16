@@ -1,38 +1,38 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>train</folder>
 	<filename>39.maxresdefault.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/39.maxresdefault.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/train/39.maxresdefault.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>720</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>215</xmin>
-			<ymin>238</ymin>
-			<xmax>717</xmax>
-			<ymax>586</ymax>
+			<xmin>68</xmin>
+			<ymin>94</ymin>
+			<xmax>225</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>652</xmin>
-			<ymin>88</ymin>
-			<xmax>944</xmax>
-			<ymax>210</ymax>
+			<xmin>203</xmin>
+			<ymin>38</ymin>
+			<xmax>295</xmax>
+			<ymax>88</ymax>
 		</bndbox>
 	</object>
 </annotation>

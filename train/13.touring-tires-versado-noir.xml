@@ -1,26 +1,26 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>train</folder>
 	<filename>13.touring-tires-versado-noir.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/13.touring-tires-versado-noir.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/train/13.touring-tires-versado-noir.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>470</width>
-		<height>470</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tire</name>
+		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>79</xmin>
+			<xmin>52</xmin>
 			<ymin>1</ymin>
-			<xmax>419</xmax>
-			<ymax>470</ymax>
+			<xmax>269</xmax>
+			<ymax>297</ymax>
 		</bndbox>
 	</object>
 </annotation>

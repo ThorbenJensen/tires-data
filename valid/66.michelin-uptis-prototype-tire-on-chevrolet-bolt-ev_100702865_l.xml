@@ -1,26 +1,26 @@
 <annotation>
-	<folder>tires-data</folder>
+	<folder>valid</folder>
 	<filename>66.michelin-uptis-prototype-tire-on-chevrolet-bolt-ev_100702865_l.jpg</filename>
-	<path>/home/tjensen/datasets/tires-data/66.michelin-uptis-prototype-tire-on-chevrolet-bolt-ev_100702865_l.jpg</path>
+	<path>/home/tjensen/datasets/tires-data/valid/66.michelin-uptis-prototype-tire-on-chevrolet-bolt-ev_100702865_l.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>682</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>tire</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>495</xmin>
-			<ymin>219</ymin>
-			<xmax>970</xmax>
-			<ymax>655</ymax>
+			<xmin>149</xmin>
+			<ymin>101</ymin>
+			<xmax>276</xmax>
+			<ymax>300</ymax>
 		</bndbox>
 	</object>
 </annotation>
