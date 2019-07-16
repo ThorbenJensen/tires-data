@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>27.promo-lg-tire-warranty.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/27.promo-lg-tire-warranty.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>45</ymin>
+			<xmax>221</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>48.tire-teaser-ab-test-kandidat-6-aiba.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/48.tire-teaser-ab-test-kandidat-6-aiba.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>18</ymin>
+			<xmax>485</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

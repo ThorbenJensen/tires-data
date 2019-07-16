@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>78.best-chains-for-car-tires.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/78.best-chains-for-car-tires.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>48</ymin>
+			<xmax>567</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>35.bigstock-mechanic-changing-a-wheel-of-a-16435478-e1363274293448-588x400.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/35.bigstock-mechanic-changing-a-wheel-of-a-16435478-e1363274293448-588x400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>588</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>41</ymin>
+			<xmax>363</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

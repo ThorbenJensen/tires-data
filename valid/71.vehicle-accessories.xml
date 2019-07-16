@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>71.vehicle-accessories.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/71.vehicle-accessories.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>43</ymin>
+			<xmax>267</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

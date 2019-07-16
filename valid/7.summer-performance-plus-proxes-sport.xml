@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>7.summer-performance-plus-proxes-sport.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/7.summer-performance-plus-proxes-sport.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>470</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>7</ymin>
+			<xmax>399</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

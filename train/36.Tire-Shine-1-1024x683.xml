@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>36.Tire-Shine-1-1024x683.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/36.Tire-Shine-1-1024x683.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>257</ymin>
+			<xmax>736</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

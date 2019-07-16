@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tires-data</folder>
+	<filename>65.ferrari-car-tires-3456x2592_44440.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/65.ferrari-car-tires-3456x2592_44440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>35</ymin>
+			<xmax>532</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>
