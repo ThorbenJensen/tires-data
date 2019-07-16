@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>47.worn-out-tire.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/train/47.worn-out-tire.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>13</ymin>
+			<xmax>250</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

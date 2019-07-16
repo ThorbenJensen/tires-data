@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>46.photo-of-a-car-tyre-tire-on-a-five-stock-photo__k4842228.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/train/46.photo-of-a-car-tyre-tire-on-a-five-stock-photo__k4842228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>23</ymin>
+			<xmax>210</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

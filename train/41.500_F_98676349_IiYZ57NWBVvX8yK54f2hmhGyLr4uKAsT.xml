@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>41.500_F_98676349_IiYZ57NWBVvX8yK54f2hmhGyLr4uKAsT.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/train/41.500_F_98676349_IiYZ57NWBVvX8yK54f2hmhGyLr4uKAsT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>68</ymin>
+			<xmax>242</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>21.tyre-over-white-background-clipart__k13304033.jpg</filename>
+	<path>/home/tjensen/datasets/tires-data/train/21.tyre-over-white-background-clipart__k13304033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>294</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
